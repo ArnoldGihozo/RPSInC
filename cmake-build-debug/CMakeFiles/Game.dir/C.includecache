@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/arnoldgihozo/Desktop/University/Fourth Year/Fall 2020/AUCSC 370/Game/header.h
+
+/Users/arnoldgihozo/Desktop/University/Fourth Year/Fall 2020/AUCSC 370/Game/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+header.h
+/Users/arnoldgihozo/Desktop/University/Fourth Year/Fall 2020/AUCSC 370/Game/header.h
+
